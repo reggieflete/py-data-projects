@@ -65,9 +65,7 @@ The dataset includes 700K+ job postings, focusing on:
 
 *(Bar chart)*
 
-📎 
-
-![skills_demand_percentage_by_role.png](attachment:78535416-7f21-48e6-b299-2ef582b33121:skills_demand_percentage_by_role.png)
+![image](https://github.com/user-attachments/assets/2787472d-5e74-499a-9fc3-9e7441d230a0)
 
 ---
 
@@ -85,9 +83,7 @@ The dataset includes 700K+ job postings, focusing on:
 
 📎 
 
-![trending_skills_percentage_data_analysts_CA.png](attachment:fd37ff0d-e92c-4bbd-970e-2d7ac3e49170:trending_skills_percentage_data_analysts_CA.png)
-
-![trending_skills_data_analysts_CA.png](attachment:936b5854-1389-421e-a533-68f654c2e66f:trending_skills_data_analysts_CA.png)
+![image](https://github.com/user-attachments/assets/a14807c1-14b5-4030-88d1-e2faa2799392)
 
 ---
 
@@ -105,7 +101,8 @@ The dataset includes 700K+ job postings, focusing on:
 
 📎 `4_salary_project_analysis_plot_4.py`
 
-![highest_vs_most_demanded_skills_data_analysts_CA.png](attachment:92b5e6ba-64af-44b9-80d6-78cac1e0acef:highest_vs_most_demanded_skills_data_analysts_CA.png)
+![image](https://github.com/user-attachments/assets/ccf6b84d-c8b7-4b6d-a2bc-c8a60e944365)
+
 
 🖼️ Looker, Snowflake, Spark, AWS, etc.
 
@@ -113,7 +110,7 @@ The dataset includes 700K+ job postings, focusing on:
 
 📎 `4_salary_project_analysis_plot_8.py`
 
-![salary_distribution_data_jobs_CA.png](attachment:24c20ec7-1e1c-4bb1-ab93-a0b4d65a0f90:salary_distribution_data_jobs_CA.png)
+![image](https://github.com/user-attachments/assets/0fc4dae5-777a-4f93-82f4-44534d300a5d)
 
 ---
 
@@ -131,7 +128,7 @@ The dataset includes 700K+ job postings, focusing on:
 
 📎 
 
-![optimal_skills_data_analysts_CA.png](attachment:6f9c0d5d-f395-4fa8-ab01-0e501d097ba3:optimal_skills_data_analysts_CA.png)
+![image](https://github.com/user-attachments/assets/0bfd8d2e-9ac0-4783-b5be-0fee5dbc4cc5)
 
 🖼️ Shows Python, SQL, Tableau as top options
 
@@ -139,7 +136,8 @@ The dataset includes 700K+ job postings, focusing on:
 
 📎 
 
-![optimal_skills_by_technology_data_analysts_CA.png](attachment:d68ec3b5-1f26-4210-a296-14c2e8852af7:optimal_skills_by_technology_data_analysts_CA.png)
+![image](https://github.com/user-attachments/assets/7c6a3b40-87cf-476b-8f6b-b518ec12e993)
+
 
 🖼️ Skills grouped by libraries, cloud, analyst tools, etc.
 
