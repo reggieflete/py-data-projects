@@ -52,9 +52,8 @@ The dataset includes 700K+ job postings, focusing on:
 
 *(Bar chart)*
 
-📎 
+![image](https://github.com/user-attachments/assets/9164cfd9-211a-4d4f-a550-0406c306abd5)
 
-![skills_demand_by_role.png](attachment:648636ec-a7f9-446d-96a4-42c3a6032158:skills_demand_by_role.png)
 
 🖼️ Top 5 skills for:
 
